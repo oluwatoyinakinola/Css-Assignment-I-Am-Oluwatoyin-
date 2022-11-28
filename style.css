@@ -1,0 +1,137 @@
+
+
+.img{
+    float: right;
+    margin-top: -120px;
+    margin-right: 100px;
+    
+}
+
+.img1{
+    float: left;
+    margin-left: 100px;
+}
+
+.img2{
+    margin-top: 90px;
+}
+
+.img3{
+     
+     margin-left: 380px; 
+}
+
+ .p, h5{
+    color: skyblue;
+    text-align: center;
+    margin-top: -30px;
+ }   
+
+ .p2{
+    padding-left: 350px;
+    padding-right: 350px;
+    font-size: x-small;
+ }
+
+ h2{
+    color: skyblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 40px;
+
+ }
+
+ .pp{
+    text-align: center;
+ }
+
+ .my-btn{
+    float: right;
+    color: skyblue;
+    margin-right: 250px;
+    
+    
+ }
+
+ .p3{
+    text-align: center;
+    float: right; 
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-right: 50px;
+    margin-top: -100px;
+    
+    
+ }
+
+.img4{
+    margin-left: 180px;
+    float: left;
+
+    
+    
+}
+
+.img5{
+    float: right;
+    padding-right: 180px;
+    margin-top: 10px;
+    
+
+}
+
+.fac{
+    margin-top: 30px;
+    margin-left: -90px;
+}
+
+.p4{
+     padding: 30px; 
+     padding-left: 180px; 
+    
+    margin-left: 170px;
+    margin-right: 170px;
+    
+}
+
+.h{
+    color: green;
+    margin-top: -30px;
+    border-bottom: 5px solid steelblue;
+    margin-left: 290px;
+    margin-right: 290px;
+    
+    
+}
+
+h3{
+    text-align: center;
+    color: skyblue;
+    font-weight: bolder;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    color: skyblue;
+}
+
+h6{
+    background-color: slateblue;
+    color: wheat;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.img6{
+    height: 300px;
+    width: 300px;
+    transition: transform .6s;
+    position: relative;
+}
+
+.img6:hover{
+    
+    transform: scale(1.1); 
+}
+
